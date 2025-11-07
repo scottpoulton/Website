@@ -1,0 +1,62 @@
+# General
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# OS and IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+Pipfile.lock
+
+# Ruby
+*.gem
+.bundle/
+vendor/bundle/
+
+# Go
+bin/
+*.exe
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Hugo
+/public/
+/resources/
+hugo_stats.json
+
+# Build output
+dist/
+build/
+out/
+
+# Mac
+*.DS_Store
+
+# Logs
+logs/
+*.log
