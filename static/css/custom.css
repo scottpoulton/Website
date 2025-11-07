@@ -36,10 +36,10 @@ ul {
   margin-bottom: 2em;
 }
 
-@media (max-width: 900px) {
+@media (max-width: 600px) {
   .container > .content > main > div > h1 {
-    font-size: 1rem !important;
+    font-size: 2rem !important;
     text-align: center;
-    padding: 2px, 2px;
+    padding: 0 8px;
   }
 }
