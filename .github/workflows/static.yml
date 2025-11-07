@@ -8,7 +8,7 @@ on:
 permissions:
   contents: read
   pages: write
-  id-token: write
+  id-token: write  
 
 concurrency:
   group: "pages"
@@ -27,7 +27,8 @@ jobs:
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.116.1'  
+          hugo-version: '0.116.1'
+          extended: true   
 
       - name: Build website
         run: hugo --minify
