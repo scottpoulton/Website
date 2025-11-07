@@ -2,9 +2,9 @@
 title: "about"
 ---
 
-Hi! 
+Hi! I'm Scott, I go by xyzg online.
 
-I'm Scott, I go by xyzg online.
+Currently studying Medical Science @ CSU.
 
 ## Things i like
 * video games
