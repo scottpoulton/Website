@@ -2,9 +2,9 @@
 title: "about"
 ---
 
-Hi! I'm Scott, I go by xyzg online.
+Hi! 
 
-Currently studying Medical Science.
+I'm Scott, I go by xyzg online.
 
 I reside in Sydney, Australia.
 
@@ -13,7 +13,8 @@ I reside in Sydney, Australia.
 * trading cards
 * self hosting
 * fermentation
-* walking
+* snowboarding
+* learning new things
 
 ## Things i don't like
 * egotism
