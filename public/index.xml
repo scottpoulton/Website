@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on somewhere/nowhere</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.scottpoulton.com/</link>
     <description>Recent content in home on somewhere/nowhere</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.scottpoulton.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://www.scottpoulton.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;m Scott, I go by xyzg online.&lt;/p&gt;&#xA;&lt;p&gt;Currently studying Medical Science.&lt;/p&gt;&#xA;&lt;p&gt;I reside in Sydney, Australia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;things-i-like&#34;&gt;Things i like&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;video games&lt;/li&gt;&#xA;&lt;li&gt;trading cards&lt;/li&gt;&#xA;&lt;li&gt;self hosting&lt;/li&gt;&#xA;&lt;li&gt;fermentation&lt;/li&gt;&#xA;&lt;li&gt;walking&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;things-i-dont-like&#34;&gt;Things i don&amp;rsquo;t like&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;egotism&lt;/li&gt;&#xA;&lt;li&gt;subscription models&lt;/li&gt;&#xA;&lt;li&gt;real estate agents&lt;/li&gt;&#xA;&lt;li&gt;airport security&lt;/li&gt;&#xA;&lt;li&gt;gatekeeping&lt;/li&gt;&#xA;&lt;li&gt;loud noises&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.scottpoulton.com/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Scott, I go by xyzg online.&lt;/p&gt;&#xA;&lt;p&gt;Currently studying Medical Science @ CSU.&lt;/p&gt;&#xA;&lt;h2 id=&#34;things-i-like&#34;&gt;Things i like&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;video games&lt;/li&gt;&#xA;&lt;li&gt;trading cards&lt;/li&gt;&#xA;&lt;li&gt;self hosting&lt;/li&gt;&#xA;&lt;li&gt;fermentation&lt;/li&gt;&#xA;&lt;li&gt;snowboarding&lt;/li&gt;&#xA;&lt;li&gt;walking&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;things-i-dont-like&#34;&gt;Things i don&amp;rsquo;t like&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;subscription models&lt;/li&gt;&#xA;&lt;li&gt;real estate agents&lt;/li&gt;&#xA;&lt;li&gt;airport security&lt;/li&gt;&#xA;&lt;li&gt;gatekeeping&lt;/li&gt;&#xA;&lt;li&gt;loud noises&lt;/li&gt;&#xA;&lt;li&gt;egotism&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>credits</title>
-      <link>http://localhost:1313/credits/</link>
+      <link>https://www.scottpoulton.com/credits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/credits/</guid>
-      <description>&lt;p&gt;Attributing all actions and achievements to oneself is a mistake.&lt;/p&gt;&#xA;&lt;h2 id=&#34;powered-by&#34;&gt;Powered By&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/rhazdon/hugo-theme-hello-friend-ng&#34;&gt;Hello Friend Theme&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://www.scottpoulton.com/credits/</guid>
+      <description>&lt;p&gt;Attributing all actions and achievements to oneself is a mistake.&lt;/p&gt;&#xA;&lt;h2 id=&#34;this-site-is-powered-by&#34;&gt;This site is powered by&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;:  Static site generator that builds and renders these pages.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;: Website Hosting.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://workspace.google.com/&#34;&gt;Google Workspace&lt;/a&gt;: Domain management.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;special-thanks-to&#34;&gt;Special thanks to&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/rhazdon/hugo-theme-hello-friend-ng&#34;&gt;Hello Friend Theme&lt;/a&gt;: Theme foundation.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>links</title>
-      <link>http://localhost:1313/links/</link>
+      <link>https://www.scottpoulton.com/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/links/</guid>
-      <description>&lt;p&gt;If you can&amp;rsquo;t see me, here&amp;rsquo;s where to find me&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://discord.com/users/105238452945068032&#34;&gt;discord&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/scottpoulton&#34;&gt;github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/_xyzg/&#34;&gt;instagram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.last.fm/user/xyzg&#34;&gt;last.fm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/scottpoulton/&#34;&gt;linkedin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re looking for my CV, it&amp;rsquo;s on my GitHub.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re looking for my Contact information, it&amp;rsquo;s on my CV.&lt;/p&gt;&#xA;&lt;p&gt;If you want to get in touch, email me.&lt;/p&gt;&#xA;&lt;p&gt;Please don&amp;rsquo;t email me unless it&amp;rsquo;s important.&lt;/p&gt;</description>
+      <guid>https://www.scottpoulton.com/links/</guid>
+      <description>&lt;p&gt;If you can&amp;rsquo;t see me, here&amp;rsquo;s where to find me&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://discord.com/users/105238452945068032&#34;&gt;discord&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/scottpoulton&#34;&gt;github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.instagram.com/_xyzg/&#34;&gt;instagram&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.last.fm/user/xyzg&#34;&gt;last.fm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/scottpoulton/&#34;&gt;linkedin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re looking for my CV, it&amp;rsquo;s on my GitHub.&lt;/p&gt;&#xA;&lt;p&gt;If you&amp;rsquo;re looking for my contact details, they&amp;rsquo;re on my CV.&lt;/p&gt;&#xA;&lt;p&gt;If you want to get in touch, email me.&lt;/p&gt;&#xA;&lt;p&gt;Please don&amp;rsquo;t email me unless it&amp;rsquo;s important.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
