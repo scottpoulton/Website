@@ -13,6 +13,8 @@ theme = "github.com/rhazdon/hugo-theme-hello-friend-ng"
 
 [minify]
   disableHTML = true
+  disableCSS = true  
+  disableJS = true
 
 [params.logo]
   logoMark = "scottpoulton"
